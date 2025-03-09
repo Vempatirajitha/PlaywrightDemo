@@ -1,0 +1,4 @@
+ENV=qa
+URL=https://www.youtube.com
+USER_NAME=1234DE
+PASSWORD=ABCDEF
