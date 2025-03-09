@@ -9,6 +9,7 @@ test.skip('skip this test', async({ page }) => {
 //will show error if the test does not fail
 test('not yet ready', async({ page }) => {
     test.fail();
+    console.log('This test is not yet ready');
 });
 
 //test will be aborted
